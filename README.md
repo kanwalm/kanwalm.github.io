@@ -1,2 +1,2 @@
 # portfolio
-Nuts and bolts that make up kanwalmukhtar.con
+Nuts and bolts that make up kanwalmukhtar.com
